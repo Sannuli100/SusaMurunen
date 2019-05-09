@@ -1,0 +1,26 @@
+﻿body
+{
+ background-color:#ffe6ff;
+
+}
+
+h1{
+	font-family: 'Lobster Two', cursive;
+	text-align:center;
+	font-size:40px;
+	margin: 50px 0 -25px 0;
+}
+
+
+h4{
+	text-align:center;
+	font-family: 'Handlee', cursive;
+	font-size:20px;
+}
+
+ul{
+	font-family: 'Handlee', cursive;
+	font-size:20px;
+	border:30px black;
+	margin: 100px 0 0 100px;
+}
